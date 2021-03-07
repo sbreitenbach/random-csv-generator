@@ -3,6 +3,7 @@
 log.log
 tryStuff.py
 .DS_Store
+random_data_file.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

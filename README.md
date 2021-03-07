@@ -1,15 +1,4 @@
-# python-quick-start
-## Template for Python Repos with the following:
+# random-csv-generator
+## Generates a CSV populated with random data 
 
-### main.py script
-1. Has logging setup
-2. Script will print a simple hello world
-
-### Test of main.py
-1. Contains two sample tests that are passing
-
-### Misc
-1. Readme
-2. License
-3, Codeowners
-4. Gitignore
+This script was part of a another larger project for code redememption, the CSV matches the formart needed to [import data into DynamoDB.](https://aws.amazon.com/blogs/database/implementing-bulk-csv-ingestion-to-amazon-dynamodb/)
